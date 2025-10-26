@@ -1,5 +1,6 @@
-# CodecademyPractice
-Codecademy exercises and projects.
+# Midnight Blackjack
+A simple blackjack game using Java and Swing for GUI components.
+Current work in progress.
 
 # Usage
-This is my personal repo to display exercises I have completed for future reference. Anyone can clone, view, or use.
+Anyone can clone, view, or use.
